@@ -11,3 +11,5 @@ e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 Respuestas:
 a- Si, ALFA ve los datos que cargan los demás en su repositorio
 b- Si, si ALFA agrega un archivo los demas integrantes los van a ver
+c- Si.
+d- A traves de un grupo de Whatsapp.
