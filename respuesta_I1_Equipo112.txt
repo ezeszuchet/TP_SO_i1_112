@@ -1,4 +1,4 @@
-Szuchet Ezequiel
+﻿Szuchet Ezequiel
 Sergio Dominguez
 Ricardo Sebastian Ledesma
 
@@ -13,3 +13,4 @@ a- Si, ALFA ve los datos que cargan los demás en su repositorio
 b- Si, si ALFA agrega un archivo los demas integrantes los van a ver
 c- Si.
 d- A traves de un grupo de Whatsapp.
+e -Por fuera de github con whatsapp y en GitHub mirando los commit.
